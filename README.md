@@ -33,6 +33,6 @@ Partition by the "date_built" field on the formatted parquet home sales data.
 
 ![alt text](Images/screenshot_q6.jpg)
 
-In my testing, running the queries in Google Colab, The cached data performed the best, followed by Parquet formatted data and then the uncashed original data.
+In my testing, running the queries in Google Colab, the cached data performed the best, followed by Parquet formatted data and then the uncashed original data.
 
-I expected the Parquet formatted data to perform the best, the performance of the data may have been limited due to reading the data from My Google drive.
+I expected the Parquet formatted data to perform the better, but the performance of the data may have been limited due to reading the data from My Google drive.
